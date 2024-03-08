@@ -1,3 +1,7 @@
+#IMPORTANT!!
+#Press "g" to hide Lines and "h" to reveal again.
+#Press "Up","Down","Left","Right" to change the speed of Pendulam
+
 import pygame as py
 import math
 py.init()
